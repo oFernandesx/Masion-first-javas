@@ -10,10 +10,11 @@
 > Murillo Henrique de Oliveira Rodrigues - N°26
 
 
-> FIGMA => https://www.figma.com/design/Z4C1ZmnpANO2axDGlwwWjd/Untitled?node-id=0-1&t=V8GgADr1k0b32MDB-1  
-> NOTION => https://lizard-tangerine-a45.notion.site/rascunho-APP-1fa6cd955f7a80f6bd43c9e19d65dcfa?pvs=4  
+> FIGMA  => https://www.figma.com/design/Z4C1ZmnpANO2axDGlwwWjd/Untitled?node-id=0-1&t=V8GgADr1k0b32MDB-1  
+> NOTION (readme) => https://lizard-tangerine-a45.notion.site/rascunho-APP-1fa6cd955f7a80f6bd43c9e19d65dcfa?pvs=4  
 > QUADRO KHANBAM => https://trello.com/invite/b/682dad71ba4117eeba7705f4/ATTIeda41715d5e32c28b83cfde3d33598932B24821A/projeto-frontend-html-css-e-javascript  
 > CANVA => https://www.canva.com/design/DAGqCrO2W98/RrXKqhzEm5bSAACPa2NNpQ/edit?utm_content=DAGqCrO2W98&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+> NOTION (briefing) => https://boiling-waxflower-787.notion.site/BRIEFING-1fa1a144724480e19351ed65089e2358    
 > NOTION = RASCUNHO PARA A PREPARAÇÃO DO README. 
 ___
 
