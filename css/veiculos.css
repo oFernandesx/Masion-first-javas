@@ -159,7 +159,6 @@ body{
     transform: translateY(-2px);
 }
 
-/* Media Queries para melhor controle em diferentes tamanhos */
 
 @media (max-width: 1200px) {
     .caixa_veiculo {
@@ -297,7 +296,6 @@ body{
     }
 }
 
-/* Estilos do Header - NÃO ALTERAR */
 header {
     position: fixed;
     top: 0;
@@ -532,33 +530,33 @@ header.scrolled {
 
 
 
-/* Estilos para o Mini-Carrossel de Paginação */
+
 .mini-carrosel {
-    display: flex; /* Usamos flexbox para centralizar os links */
-    justify-content: center; /* Centraliza horizontalmente */
-    margin-top: 50px; /* Adiciona um espaço acima do carrossel, ajuste conforme necessário */
-    margin-bottom: 50px; /* Adiciona um espaço abaixo do carrossel, ajuste conforme necessário */
-    gap: 15px; /* Espaçamento entre os números (agora no container flex diretamente) */
+    display: flex; 
+    justify-content: center; 
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    gap: 15px; 
 }
 
 .mini-carrosel a {
-    font-family: 'Bebas Neue', sans-serif; /* A fonte que você está usando */
-    font-size: clamp(2rem, 3vw, 3.5rem); /* Tamanho de fonte responsivo */
-    text-decoration: none; /* Remove sublinhado dos links */
-    color: #6E7B8E; /* Cor dos números não-ativos (azul acinzentado da sua paleta) */
-    padding: 5px 10px; /* Um pequeno padding para a área clicável, se desejar */
-    transition: color 0.9s ease-out; /* Transição suave para o hover */
-    /* Remove font-weight: bold; se quiser que apenas o ativo seja bold */
+    font-family: 'Bebas Neue', sans-serif; 
+    font-size: clamp(2rem, 3vw, 3.5rem); 
+    text-decoration: none; 
+    color: #6E7B8E; 
+    padding: 5px 10px; 
+    transition: color 0.9s ease-out; 
+    
 }
 
 .mini-carrosel a:hover {
-    color: #dfc99e99; /* Cor ao passar o mouse (dourado/amarelo da sua paleta) */
+    color: #dfc99e99; 
     transform: scale(1.13);
 }
 
-/* Estilo para o número ativo/selecionado */
+
 .mini-carrosel a.ativo {
-    color: #DFC99E; /* Cor do número ativo (dourado/amarelo da sua paleta) */
+    color: #DFC99E; 
     font-weight: bold;
 }
 
