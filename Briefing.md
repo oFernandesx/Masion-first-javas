@@ -1,4 +1,4 @@
-# BRIETHING
+# BRIEFING
 
 # **Informações Gerais**
 
