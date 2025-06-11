@@ -1,0 +1,85 @@
+.footer{
+    background-color: #6E7B8E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3.125rem 1.25rem;
+}
+
+.footer_elements{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3.125rem;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 75rem;
+    gap: clamp(1.25rem, 5vw, 3.75rem);
+}
+
+.footer_title{
+    font-family: "Bebas Neue";
+    color: #DED3BD;
+    font-size: clamp(1.25rem, 2.5vw + 0.5rem, 1.5rem);
+    text-align: center; /* Já está aqui, ótimo! */
+    margin-bottom: 0.625rem;
+}
+
+.footer_elementscase1{
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    flex-direction: column; /* Coloca ícone e texto em coluna para melhor responsividade */
+    text-align: center; /* ESTE É O IMPORTANTE PARA CENTRALIZAR O TEXTO E ÍCONES NESTE CONTAINER */
+    margin-bottom: 1.25rem;
+}
+
+.footer_case1{
+    font-size: clamp(0.8rem, 1.2vw + 0.2rem, 0.9375rem);
+    /* align-items: start; */ /* REMOVIDO! */
+    text-align: center; /* <-- ADICIONADO AQUI! */
+    color: #fff;
+}
+
+.footer_case1 i {
+    font-size: clamp(1.25rem, 3vw, 1.5625rem);
+    color: #DED3BD;
+    margin-bottom: 0.3125rem;
+}
+
+.icone-case1{
+    font-size: clamp(1.125rem, 2.5vw, 1.25rem);
+    color: #DED3BD;
+}
+
+/* Media Queries para ajustes específicos (opcional, mas recomendado) */
+@media (max-width: 768px) {
+    .footer_elements {
+        flex-direction: column;
+        gap: 1.875rem;
+        padding: 1.875rem 0.625rem;
+    }
+
+    .footer_elementscase1 {
+        flex-direction: row; /* Volta ícone e texto para a mesma linha, se fizer sentido para cada item */
+        justify-content: center;
+        align-items: center;
+        gap: 0.625rem;
+        margin-bottom: 0.625rem;
+    }
+
+    .footer_elementscase1:last-child {
+        margin-bottom: 0;
+    }
+
+    .footer_title {
+        font-size: clamp(1.125rem, 4vw, 1.375rem);
+        margin-bottom: 0.9375rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer_elements {
+        padding: 1.25rem 0.5rem;
+    }
+}

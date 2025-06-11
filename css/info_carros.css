@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+.cars-img {
+    width: 270px;
+}
+
+.cars-img2 {
+    width: 600px;
+}
+
+.div-cars-img {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.titulo-car {
+    color: #ffffff;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.titulo-car-ofc {
+    color: #6E7B8E;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.titulo-preco {
+    color: #6E7B8E;
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.alugar-btt {
+    background-color: #dec89e;
+    color: #6E7B8E;
+    padding: 10px;
+    width: 300px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.comprar-btt {
+    background-color: #6E7B8E;
+    color: #dec89e;
+    padding: 10px;
+    width: 300px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.interessado-btt {
+    background-color: #6E7B8E;
+    color: #dec89e;
+    padding: 10px;
+    width: 400px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.todo-conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    border-bottom: solid 4px;
+    border-color: #ffffff;
+    padding-bottom: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carro-e-ano {
+    display: flex;
+    gap: 80px;
+}
+
+.titulo-espec {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.titulo-espec2 {
+    text-align: center;
+    font-size: 69px;
+    line-height: 1em;
+    font-style: bold;
+    font-family: "Bebas Neue";
+    color: #6E7B8E !important;
+}
+
+.botoes-infos {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.espec {
+    color: #3f4a5c;
+}
+
+.comprar-btt:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.alugar-btt:hover {
+    transform: scale(1.05);
+    cursor: pointer
+}
+
+.interessado-btt:hover {
+    transform: scale(1.05);
+    cursor: pointer
+}
+
+.especificacoes-container {
+    display: grid;
+    padding: 3em;
+    border-radius: 10%;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px 50px;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 90px;
+}
+
+.especificacao-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    color: #ffffff;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.valor {
+    color: #6E7B8E;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.interessado{
+    width: 100%;
+    background-color: #d4c19b;
+    height: 243px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text-interessado {
+    color: #3f4a5c;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.btn-mais-veiculos {
+    background-color: black;
+    color: #d4c19b;
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px;
+    border-radius: 40px;
+    font-size: 1em;
+    font-weight: bold;
+    transition: transform 0.2s ease-in-out;
+}
+
+.btn-mais-veiculos:hover {
+    transform: scale(1.05);
+    cursor: pointer
+}
+
+.div-btn-mais-veiculos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+

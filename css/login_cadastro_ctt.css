@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.fundo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                      url(../img/image\ 6.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+
+
+.card_login {
+    width: 500px;
+    padding: 30px 30px 70px 30px;
+    background-color: #E8E7E6;
+    border-radius: 50px;
+}
+
+.container {
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin-top: 60px;
+    margin-bottom: 50px;
+  }
+}
+
+.container2 {
+    margin-top: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+  .container2 {
+    margin-top: 60px;
+    margin-bottom: 50px;
+  }
+}
+
+.container3 {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+  .container3 {
+    margin-top: 60px;
+    margin-bottom: 50px;
+  }
+}
+
+.logo {
+    width: 240px;
+    
+}
+
+.icon_login {
+    font-size: 40px;
+    color: #6E7B8E;
+}
+
+.redes_login {
+    justify-content: center;
+    gap: 30px;
+    display: flex;
+    margin-top: -20px;
+}
+
+.form-box {
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.logo_login {
+    display: flex;
+    justify-content: center;
+}
+
+.imput_login {
+    background-color: #b2b8bf;
+    color: #000000;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+input::placeholder {
+    color: #ffffff;
+}
+
+.cadastro_link {
+    color: #EDC064;
+    margin-left: 5px;
+}
+
+.text_login {
+    display: flex;
+    justify-content: center;
+    color: #6E7B8E;
+    margin-top: -20px;
+}
+
+.entrar_login {
+    background-color: #b2b8bf;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 50px;
+    margin-top: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.entrar_login:hover {
+    transform: scale(1.05);
+}
+
+.rua_numero {
+    display: flex;
+    gap: 5px;
+}
