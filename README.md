@@ -10,10 +10,11 @@
 > Murillo Henrique de Oliveira Rodrigues - N°26
 
 
-> FIGMA => https://www.figma.com/design/Z4C1ZmnpANO2axDGlwwWjd/Untitled?node-id=0-1&t=V8GgADr1k0b32MDB-1
+> FIGMA => https://www.figma.com/design/Z4C1ZmnpANO2axDGlwwWjd/Untitled?node-id=0-1&t=V8GgADr1k0b32MDB-1  
 > NOTION => https://lizard-tangerine-a45.notion.site/rascunho-APP-1fa6cd955f7a80f6bd43c9e19d65dcfa?pvs=4  
-> QUADRO KHANBAM => https://trello.com/invite/b/682dad71ba4117eeba7705f4/ATTIeda41715d5e32c28b83cfde3d33598932B24821A/projeto-frontend-html-css-e-javascript
-
+> QUADRO KHANBAM => https://trello.com/invite/b/682dad71ba4117eeba7705f4/ATTIeda41715d5e32c28b83cfde3d33598932B24821A/projeto-frontend-html-css-e-javascript  
+> CANVA => https://www.canva.com/design/DAGqCrO2W98/RrXKqhzEm5bSAACPa2NNpQ/edit?utm_content=DAGqCrO2W98&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+> NOTION = RASCUNHO PARA A PREPARAÇÃO DO README. 
 ___
 
 ## IDEIAS PARA O SITE
@@ -100,8 +101,9 @@ CARROS JA ADICIONADOS A AREA PRINCIPAL DE CARROS:
   - Ford Mustang FastBack (1971) R$ 850.000 ✅  
   - Chevrolet Camaro (1980) R$ 1.350.000 ✅  
   
-_Comecamos o dia preparando a apresentação e terminando de arrumar alguns detalhes do projeto, com isso estamos aproveitando os momentos antes da apresentação começar, após as apresetações, possivelmente após o dia de hoje (11/06) ja estaremos com o código pronto, agora é a parte que estamos mais focados em detalhes, para nao permitir possíveis erros, até porque o tempo é curto. Pela falta de tempo e até um pouco de planejamento, nós acabamos revomendo a pagina de aluguel e mudamos para uma página para carros blindados, selecionamos alguns carros._
-
+_Comecamos o dia preparando a apresentação e terminando de arrumar alguns detalhes do projeto, com isso estamos aproveitando os momentos antes da apresentação começar, após as apresetações, possivelmente após o dia de hoje (11/06) ja estaremos com o código pronto, agora é a parte que estamos mais focados em detalhes, para nao permitir possíveis erros, até porque o tempo é curto. Pela falta de tempo e até um pouco de planejamento, nós acabamos revomendo a pagina de aluguel e mudamos para uma página para carros blindados, selecionamos alguns carros._  
+_Após a a apresentação do nosso projeto ja seguimos enviando os links importantes para o professor, para assim finalizar mais um projeto com *Sucesso*._
+ ### grupo 1
   
 
 
